@@ -1,0 +1,1 @@
+supervisor icu>=58 libgcc-ng=7 libstdcxx-ng=7 python=2.7.17 openssl=1.1.*
